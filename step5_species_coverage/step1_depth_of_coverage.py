@@ -46,7 +46,6 @@ def coverage(bam, outfile):
             outpf.write(result)
             outpf.write("\n")
 
-samtools = "/public1/home/yingxm/hanyang/software/samtools-1.5/samtools"
 list_no = sys.argv[1]
 list_file = "list%s.txt"%list_no
 bamPath = "/public1/home/yingxm/liupu/liver/step6_callSNP/savedBams1"

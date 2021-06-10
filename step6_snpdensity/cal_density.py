@@ -1,5 +1,4 @@
 #!/usr/bin/python
-#snpInfoPath can use all Resulst because it will join coverageInfo.
 import re
 import sys
 snpInfoPath = "./snpNum"
