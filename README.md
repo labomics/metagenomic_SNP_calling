@@ -9,6 +9,7 @@ This part requires Trimmomatic, MetaPhlAn2.0, bwa, Samtools, picard, bcftools, V
 ## Basic Usage
 
 step1_qc performs quality control with a file contains sample name, datadir and outdir needed.
+
 step2_metaphlan *
 
 ### Example
