@@ -16,7 +16,7 @@ def cutHead(sample):
     os.system(command)
 
 
-listfile = "list%s.txt"%sys.argv[1]
+listfile = "%s.txt"%sys.argv[1]
 datadir = sys.argv[2]
 outdir = sys.argv[3]
 #datadir = "/root/data/liver/step1_classifyData/mergedData"
