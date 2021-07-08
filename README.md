@@ -37,16 +37,13 @@ step2_metaphlan profiles the microorganisms and their relative abundances in eac
 
     python step2_metaphlan/metaphlan.py metaphlan_dir out_dir  fastq_dir 
 
-step3_getRef constructs microbial reference genome by selecting strains that meet certain conditions.
+step3_getRef constructs microbial reference genome by selecting strains that meet certain conditions. Then you need to download reference genome from NCBI according to GCFid.  
 
     python step1_stat.py inputpath > species.txt  
-
     #select strains detected in more than 3 samples for subsequent analysis.  
-
-    python step2_getStrain.py inputpath > mappedstrain.txt  
- 
-    python step3_getrefid.py mappedGCForPRJid.txt  
- 
-    #download reference genome according to GCFid.  
+    python step2_getStrain.py inputpath > mappedstrain.txt   
+    python step3_getrefid.py mappedGCForPRJid.txt   
+    
+step4_callSNP contain 
 
 
