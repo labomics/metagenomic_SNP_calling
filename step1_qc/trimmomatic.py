@@ -17,8 +17,10 @@ def cutHead(sample):
 
 
 listfile = "list%s.txt"%sys.argv[1]
-datadir = "/root/data/liver/step1_classifyData/mergedData"
-outdir = "/root/data/liver/step1_classifyData/filteredData3"
+datadir = sys.argv[2]
+outdir = sys.argv[3]
+#datadir = "/root/data/liver/step1_classifyData/mergedData"
+#outdir = "/root/data/liver/step1_classifyData/filteredData3"
 trimmomatic = "/root/data/software/Trimmomatic-0.39/trimmomatic-0.39.jar"
 
 with open(listfile,"r") as inpf:
