@@ -62,4 +62,4 @@ step6_snpdensity calculates SNP density of prevalent strains and uses Mann-Whitn
     python step1_getSNP_majorFreq.py filename
     python step2_getSNPnum.py 
     python step3_cal_density.py
-    R step4_static.r
+    Rscript step4_static.r
