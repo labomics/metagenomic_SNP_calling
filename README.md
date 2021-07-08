@@ -35,18 +35,18 @@ step1_qc performs quality control with a file contains sample name, datadir and 
 
 step2_metaphlan profiles the microorganisms and their relative abundances in each sample. The input is clean data and the output is the info of microorganisms and their relative abundances. 
 
-`python step2_metaphlan/metaphlan.py metaphlan_dir out_dir  fastq_dir `
+    python step2_metaphlan/metaphlan.py metaphlan_dir out_dir  fastq_dir 
 
 step3_getRef constructs microbial reference genome by selecting strains that meet certain conditions.
 
-`python step1_stat.py inputpath > species.txt  
+    python step1_stat.py inputpath > species.txt  
 
- #select strains detected in more than 3 samples for subsequent analysis.  
+    #select strains detected in more than 3 samples for subsequent analysis.  
 
- python step2_getStrain.py inputpath > mappedstrain.txt  
+    python step2_getStrain.py inputpath > mappedstrain.txt  
  
- python step3_getrefid.py mappedGCForPRJid.txt  
+    python step3_getrefid.py mappedGCForPRJid.txt  
  
-#download reference genome according to GCFid.  
-`
+    #download reference genome according to GCFid.  
+
 
