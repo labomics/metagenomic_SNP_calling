@@ -59,13 +59,3 @@ for sample in samples:
                    if genome not in genomes:
                        continue
                    vcfOut.write("%s\n"%line)
-                   pos = tmpArray[1]
-                   if pos2gene.get(contig,{}).get(int(pos),'null') == 'null':
-                       gene = 'NA'
-                   else:
-                       gene = pos2gene[contig][int(pos)]
-                   ref_mut = "%s,%s"%(tmpArray[3],tmpArray[4])
-                   DPR = tmpArray[-3].split(":")[-1]
-                   isValid = False
-                   if sample in genomeValidSamples[genome]:
-                       isValid = True
