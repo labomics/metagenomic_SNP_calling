@@ -44,6 +44,22 @@ step3_getRef constructs microbial reference genome by selecting strains that mee
     python step2_getStrain.py inputpath > mappedstrain.txt   
     python step3_getrefid.py mappedGCForPRJid.txt   
     
-step4_callSNP contain 
+step4_callSNP includes calling SNPs by Samtools and VarScan2 respectively and some filter process.
 
+    python step1_callSNP.py filename
+    python step2_varscan.py filename
+    python step3_filtervcf.py filename
+    python step4_gen_newvcf.py filename
 
+step5_species_coverage first calculates genome coverage and width of strains, then achieve prevalent strains according to the filteration criteria。
+
+    python step1_depth_of_coverage.py filename
+    python step2_connectContigs2genome.py 
+    python step3_filter.py
+    
+step6_snpdensity calculates SNP density of prevalent strains and uses Mann-Whitney test to screen out strains with differences in SNP density between the two groups for next strain_profiling analysis.
+
+    python step1_getSNP_majorFreq.py filename
+    python step2_getSNPnum.py 
+    python step3_cal_density.py
+    R step4_static.r
