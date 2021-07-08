@@ -31,7 +31,7 @@ Considering reseaches often includes large samples, we suggest that a file conta
 
 step1_qc performs quality control with a file contains sample name, datadir and outdir needed. The input is raw data and the output is clean data.
 
- python step1_qc/trimmomatic.py filepath/filename datadir outdir                             `
+    python step1_qc/trimmomatic.py filepath/filename datadir outdir                             `
 
 step2_metaphlan profiles the microorganisms and their relative abundances in each sample. The input is clean data and the output is the info of microorganisms and their relative abundances. 
 
