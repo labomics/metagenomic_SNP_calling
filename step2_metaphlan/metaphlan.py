@@ -4,13 +4,13 @@ import os
 import re
 
 list_file = "../list1.txt"
-metaphlan_dir = "/root/lp/liver/software/biobakery-metaphlan2-f1dcf3958459"
-out_dir = "./"
-fastq_dir = "/root/lp/liver/metagenomic_SNP_calling/test"
+#metaphlan_dir = "/root/lp/liver/software/biobakery-metaphlan2-f1dcf3958459"
+#out_dir = "./"
+#fastq_dir = "/root/lp/liver/metagenomic_SNP_calling/test"
 
-#metaphlan_dir = sys.argv[1]
-#out_dir = sys.argv[2]
-#fastq_dir = sys.argv[3]
+metaphlan_dir = sys.argv[1]
+out_dir = sys.argv[2]
+fastq_dir = sys.argv[3]
 with open(list_file,"r") as inpf:
     for line in inpf:
         line = line.strip()

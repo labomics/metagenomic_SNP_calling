@@ -2,7 +2,7 @@
 import re
 import sys
 snpInfoPath = "./snpNum"
-coverageInfoPath = "/public1/home/yingxm/liupu/liver/step5_species_coverage/genomeCoverage1"
+coverageInfoPath = "/public1/home/yingxm/liupu/liver/step5_species_coverage/genomeCoverage"
 listPath = "../datalist"
 density_table = dict()
 allsamples = list()
