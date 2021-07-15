@@ -56,7 +56,7 @@ step3_getRef constructs microbial reference genome by selecting strains that mee
     python2 step2_getStrain.py test/metaphlan2 > mappedstrain.txt   
     python2 step3_getrefid.py > mappedGCF.txt   
     
-step4_callSNP includes calling SNPs by Samtools and VarScan2 respectively and some filter processes.
+step4_callSNP includes calling SNPs by Samtools and VarScan2 respectively and some filter processes. The results of snp calling by samtools are in test/callSNP/output and test/callSNP/savedBams. The results by VarScan2 are in test/callSNP/voutput.
 
     python step1_callSNP.py 1
     python step2_varscan.py 1
