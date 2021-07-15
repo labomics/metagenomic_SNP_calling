@@ -38,6 +38,7 @@ with open("../list1.txt","r") as inpf:
                 curBases = bases.get(genome,0)
                 width = float(curSites)/genome_len[genome]
                 #if width < 0.4:
+                #set the filter threshold of genome
                 if width < 0:
                     outpf.write("")
                 else:

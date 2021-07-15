@@ -36,7 +36,7 @@ with open("../keyFiles/data.list",'r') as inpf:
 for genome in genomeList:
     if diabetes_species.get(genome,0)>19 and normal_species.get(genome,0)>19:
         print "%s %d %d"%(genome,diabetes_species[genome],normal_species[genome])
-        with open("./datalist1/%s.data.list"%genome,'w') as outpf:
+        with open("./datalist/%s.data.list"%genome,'w') as outpf:
             for sample in diabetes_list[genome]:
                 outpf.write("%s\t%s\n"%(sample,'Y'))
             for sample in normal_list[genome]:
