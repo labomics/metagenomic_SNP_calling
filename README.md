@@ -23,7 +23,11 @@ For prevalent strains with sufficient genome coverage and depth, getSNP_majorFre
 
 ### Comprehensive Strain-level Analysis of the Gut Microbe Faecalibacterium Prausnitzii in Patients with Liver Cirrhosis
 
-** Yaowen Chena*, Pu Liua*, Runyan Liua, Shuofeng Hua, Zhen Hea, Guohua Donga, Chao Fenga, Sijing Ana, Xiaomin Yinga# **
+Yaowen Chen<sup>*</sup>, Pu Liu<sup>*</sup>, Runyan Liu, Shuofeng Hu, Zhen He, Guohua Dong, Chao Feng, Sijing An, Xiaomin Ying<sup>#</sup>
+
+### Gut metagenomes of type 2 diabetic patients have characteristic single-nucleotide polymorphism distribution in Bacteroides coprocola
+
+Yaowen Chen<sup>1</sup> , Zongcheng Li<sup>1</sup> , Shuofeng Hu<sup>1</sup> , Jian Zhang<sup>1</sup> , Jiaqi Wu<sup>1</sup> , Ningsheng Shao<sup>1</sup> , Xiaochen Bo<sup>2</sup> , Ming Ni<sup>2*</sup> and Xiaomin Ying<sup>1*</sup>
 
 ## Pre-requisites
 This part requires FastQC, Trimmomatic, MetaPhlAn2.0, bwa, Samtools, picard, bcftools, VarScan2, vcftools installed. 
