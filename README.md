@@ -19,47 +19,59 @@ Burrows-Wheeler Aligner-maximal exact match (BWA-MEM) was chosen to align clean 
 ### SNP density
 For prevalent strains with sufficient genome coverage and depth, getSNP_majorFreq.py was used to achieve major SNPs in these strains. getSNPnum.py was used to count SNPs of each prevalent strain in each sample and cal_density.py was used to calculate SNP density based on SNPs and genome coverage of strains. Mann-Whitney test was used to analyze the difference of SNP densitiy between the liver cirrhosis and control group. R package qvalue (v2.10.0) was used to control False Discovery Rate.  (see details in step6_snpdensity).
 
+## Citation
+
+### Comprehensive Strain-level Analysis of the Gut Microbe Faecalibacterium Prausnitzii in Patients with Liver Cirrhosis
+
+Yaowen Chen<sup>1*</sup>, Pu Liu<sup>1*</sup>, Runyan Liu<sup>1</sup>, Shuofeng Hu<sup>1</sup>, Zhen He<sup>1</sup>, Guohua Dong<sup>1</sup>, Chao Feng<sup>1</sup>, Sijing An<sup>1</sup>, Xiaomin Ying<sup>1#</sup>
+
+### Gut metagenomes of type 2 diabetic patients have characteristic single-nucleotide polymorphism distribution in Bacteroides coprocola
+
+Yaowen Chen<sup>1</sup> , Zongcheng Li<sup>1</sup> , Shuofeng Hu<sup>1</sup> , Jian Zhang<sup>1</sup> , Jiaqi Wu<sup>1</sup> , Ningsheng Shao<sup>1</sup> , Xiaochen Bo<sup>2</sup> , Ming Ni<sup>2*</sup> and Xiaomin Ying<sup>1*</sup>
+
 ## Pre-requisites
-This part requires FastQC, Trimmomatic, MetaPhlAn2.0, bwa, Samtools, picard, bcftools, VarScan2, vcftools installed. 
+This part requires FastQC, Trimmomatic, MetaPhlAn2.0, bowtie2, bwa, Samtools, picard, bcftools, VarScan2, vcftools installed. 
 
 ## Flowchart
 <img src="flowchart.png" width = "300" height = "429" alt="" align=center />
 
-### Example
+### Usage Examples
 
-Considering reseaches often includes large samples, we suggest that a file contains sample names is needed.
+To help better understand how this framework works, we use data in filefolder test to run this framwork. It should be noted that due to the large amount of data in researches and our small test data, the threshold standard is slightly different.
 
-step1_qc performs quality control with a file contains sample name, datadir and outdir needed. The input is raw data and the output is clean data.
+Considering reseaches often includes large samples, we suggest that a file contains sample names and their type is needed, which is list1.txt here.
+
+step1_qc performs quality control with a file contains sample name, datadir and outdir needed. The input is raw data and the output is clean data in test/clean_data.
 
     python step1_qc/trimmomatic.py filepath/filename datadir outdir                             `
 
-step2_metaphlan profiles the microorganisms and their relative abundances in each sample. The input is clean data and the output is the info of microorganisms and their relative abundances. 
+step2_metaphlan profiles the microorganisms and their relative abundances in each sample. The input is clean data and the output is the info of microorganisms and their relative abundances in test/metaphlan2. 
 
     python step2_metaphlan/metaphlan.py metaphlan_dir out_dir  fastq_dir 
 
-step3_getRef constructs microbial reference genome by selecting strains that meet certain conditions. Then you need to download reference genome from NCBI according to GCFid.  
+step3_getRef constructs microbial reference genome by selecting strains that meet certain conditions. Then you need to download reference genome from NCBI according to GCFid and build index for Reffna. You can see details in test/ref.  
 
-    python step1_stat.py inputpath > species.txt  
-    #select strains detected in more than 3 samples for subsequent analysis.  
-    python step2_getStrain.py inputpath > mappedstrain.txt   
-    python step3_getrefid.py mappedGCForPRJid.txt   
+    python step1_stat.py test/metaphlan2 > species.txt  
+    #select names of strains detected in more than 3 samples as input (speciesname.txt) for subsequent analysis.  
+    python step2_getStrain.py test/metaphlan2 > mappedstrain.txt   
+    python step3_getrefid.py > mappedGCF.txt   
     
-step4_callSNP includes calling SNPs by Samtools and VarScan2 respectively and some filter process.
+step4_callSNP includes calling SNPs by Samtools and VarScan2 respectively and some filter processes.
 
-    python step1_callSNP.py filename
-    python step2_varscan.py filename
-    python step3_filtervcf.py filename
-    python step4_gen_newvcf.py filename
+    python step1_callSNP.py 1
+    python step2_varscan.py 1
+    python step3_filtervcf.py 1
+    python step4_gen_newvcf.py 1
 
-step5_species_coverage first calculates genome coverage and width of strains, then achieve prevalent strains according to the filteration criteria。
+step5_species_coverage first calculates genome coverage and width of strains by step1.py and step2.py, then achieve prevalent strains according to the filteration criteria by step3.py.
 
-    python step1_depth_of_coverage.py filename
+    python step1_depth_of_coverage.py 1 
     python step2_connectContigs2genome.py 
-    python step3_filter.py
+    python step3_filter.py 
     
-step6_snpdensity calculates SNP density of prevalent strains and uses Mann-Whitney test to screen out strains with differences in SNP density between the two groups for next strain_profiling analysis.
+step6_snpdensity calculates SNP density of prevalent strains and uses Mann-Whitney test to screen out strains with differences in SNP density between the two groups for next strain_profiling analysis. 
 
-    python step1_getSNP_majorFreq.py filename
+    python step1_getSNP_majorFreq.py 1
     python step2_getSNPnum.py 
     python step3_cal_density.py
     Rscript step4_static.r
