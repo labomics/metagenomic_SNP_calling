@@ -30,7 +30,7 @@ Yaowen Chen<sup>1*</sup>, Pu Liu<sup>1*</sup>, Runyan Liu<sup>1</sup>, Shuofeng 
 Yaowen Chen<sup>1</sup> , Zongcheng Li<sup>1</sup> , Shuofeng Hu<sup>1</sup> , Jian Zhang<sup>1</sup> , Jiaqi Wu<sup>1</sup> , Ningsheng Shao<sup>1</sup> , Xiaochen Bo<sup>2</sup> , Ming Ni<sup>2*</sup> and Xiaomin Ying<sup>1*</sup>
 
 ## Pre-requisites
-This part requires FastQC, Trimmomatic, MetaPhlAn2.0, bwa, Samtools, picard, bcftools, VarScan2, vcftools installed. 
+This part requires FastQC, Trimmomatic, MetaPhlAn2.0, bowtie2, bwa, Samtools, picard, bcftools, VarScan2, vcftools installed. 
 
 ## Flowchart
 <img src="flowchart.png" width = "300" height = "429" alt="" align=center />
