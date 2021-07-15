@@ -19,6 +19,10 @@ Burrows-Wheeler Aligner-maximal exact match (BWA-MEM) was chosen to align clean 
 ### SNP density
 For prevalent strains with sufficient genome coverage and depth, getSNP_majorFreq.py was used to achieve major SNPs in these strains. getSNPnum.py was used to count SNPs of each prevalent strain in each sample and cal_density.py was used to calculate SNP density based on SNPs and genome coverage of strains. Mann-Whitney test was used to analyze the difference of SNP densitiy between the liver cirrhosis and control group. R package qvalue (v2.10.0) was used to control False Discovery Rate.  (see details in step6_snpdensity).
 
+## Citation
+
+    *Comprehensive Strain-level Analysis of the Gut Microbe Faecalibacterium Prausnitzii in Patients with Liver Cirrhosis*
+
 ## Pre-requisites
 This part requires FastQC, Trimmomatic, MetaPhlAn2.0, bwa, Samtools, picard, bcftools, VarScan2, vcftools installed. 
 
