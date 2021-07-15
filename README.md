@@ -21,7 +21,8 @@ For prevalent strains with sufficient genome coverage and depth, getSNP_majorFre
 
 ## Citation
 
-    *Comprehensive Strain-level Analysis of the Gut Microbe Faecalibacterium Prausnitzii in Patients with Liver Cirrhosis*
+    **Comprehensive Strain-level Analysis of the Gut Microbe Faecalibacterium Prausnitzii in Patients with Liver Cirrhosis**
+    Yaowen Chena*, Pu Liua*, Runyan Liua, Shuofeng Hua, Zhen Hea, Guohua Donga, Chao Fenga, Sijing Ana, Xiaomin Yinga#
 
 ## Pre-requisites
 This part requires FastQC, Trimmomatic, MetaPhlAn2.0, bwa, Samtools, picard, bcftools, VarScan2, vcftools installed. 
