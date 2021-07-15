@@ -3,7 +3,7 @@ import gzip
 import re
 import sys
 import os
-samtoolsVcf = "../step5_mergeVCF/SNPs_majorFreq/"
+samtoolsVcf = "../step5_mergeVCF/SNPs_majorspecies/"
 if not os.path.exists(samtoolsVcf):
     print 'not found path'
     exit()

@@ -4,7 +4,7 @@
 import subprocess
 import os
 import re
-inpf = open("./mappedStrains.txt","r")
+inpf = open("./mappedstrains.txt","r")
 for line in inpf:
     line = line.strip()
     line = line.split("\t")[1]

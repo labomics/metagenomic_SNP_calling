@@ -43,7 +43,7 @@ with open("../keyFiles/genomeInfo.txt",'r') as inpf:
 for sample in samples:
     print sample
     oldVcf = "/public1/home/yingxm/liupu/liver/step5_mergeVCF/%s.vcf.gz"%sample
-    newVcf = "./SNPs_majorFreq/%s.vcf.gz"%sample
+    newVcf = "./SNPs_majorspecies/%s.vcf.gz"%sample
     with gzip.open(newVcf,'w') as vcfOut:
         with gzip.open(oldVcf,'r') as inpf:
             for line in inpf:

@@ -4,7 +4,7 @@ father = dict()
 genome_len = dict()
 contig_len = dict()
 mapp = {}
-with open("../keyFiles/genomeInfo.txt","r") as inpf:
+with open("../test/keyFiles/genomeInfo.txt","r") as inpf:
     for line in inpf:
         line = line.strip()
         genome,contig,length,description = line.split("\t")
@@ -12,7 +12,7 @@ with open("../keyFiles/genomeInfo.txt","r") as inpf:
         father[contig] = genome
         genome_len[genome] = genome_len.get(genome,0)+int(length)
 	#print genome_len[genome]
-with open("../keyFiles/data.list","r") as inpf:
+with open("../list1.txt","r") as inpf:
     for line in inpf:
         sites = dict()
         bases = dict()
@@ -20,7 +20,7 @@ with open("../keyFiles/data.list","r") as inpf:
         basesUniq = dict()
         line = line.strip()
         sample,type = line.split("\t")
-        infile = "./contigCoverage1/%s.coverage.txt"%sample
+        infile = "/root/lp/liver/metagenomic_SNP_calling/test/species_coverage/%s.coverage.txt"%sample
         with open(infile,"r") as inpf2:
             for record in inpf2:
                 record = record.strip()
@@ -30,14 +30,15 @@ with open("../keyFiles/data.list","r") as inpf:
                     sites[genome] = sites.get(genome,0) + int(array[4])
                     bases[genome] = bases.get(genome,0) + int(array[5])
 
-        outfile = "./genomeCoverage/%s.coverage.txt"%sample
+        outfile = "/root/lp/liver/metagenomic_SNP_calling/test/species_coverage/%s.genomecov.txt"%sample
         with open(outfile,"w") as outpf:
             outpf.write("#genome,width,depth,curSites,curBases,genome_len[genome]\n")
             for genome in genome_len.keys():
                 curSites = sites.get(genome,0)
                 curBases = bases.get(genome,0)
                 width = float(curSites)/genome_len[genome]
-                if width < 0.4:
+                #if width < 0.4:
+                if width < 0:
                     outpf.write("")
                 else:
                     depth = float(curBases)/sites[genome]

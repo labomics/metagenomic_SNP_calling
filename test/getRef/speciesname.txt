@@ -1,0 +1,9 @@
+Bacteroides_caccae 
+Veillonella_parvula 
+Megasphaera_unclassified 
+Bifidobacterium_pseudocatenulatum 
+Bacteroides_dorei 
+Bacteroides_fragilis 
+Bacteroides_ovatus 
+Parabacteroides_unclassified 
+Bacteroides_vulgatus 

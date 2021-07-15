@@ -1,0 +1,295 @@
+GCA_000169015	AAVM02000021.1	1430	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont1330, whole genome shotgun sequence
+GCA_000169015	AAVM02000020.1	3634	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont93.1, whole genome shotgun sequence
+GCA_000169015	AAVM02000019.1	7508	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont33.1, whole genome shotgun sequence
+GCA_000169015	AAVM02000018.1	11036	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont83.1, whole genome shotgun sequence
+GCA_000169015	AAVM02000017.1	11054	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont90.1, whole genome shotgun sequence
+GCA_000169015	AAVM02000016.1	12999	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont1288, whole genome shotgun sequence
+GCA_000169015	AAVM02000015.1	20897	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont44.2, whole genome shotgun sequence
+GCA_000169015	AAVM02000014.1	35877	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont33.2, whole genome shotgun sequence
+GCA_000169015	AAVM02000013.1	43471	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont42.1, whole genome shotgun sequence
+GCA_000169015	AAVM02000012.1	43608	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont1322, whole genome shotgun sequence
+GCA_000169015	AAVM02000011.1	107227	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont241, whole genome shotgun sequence
+GCA_000169015	AAVM02000010.1	129036	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont173, whole genome shotgun sequence
+GCA_000169015	AAVM02000009.1	131911	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont269, whole genome shotgun sequence
+GCA_000169015	AAVM02000008.1	271250	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont1323, whole genome shotgun sequence
+GCA_000169015	AAVM02000007.1	273522	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont240, whole genome shotgun sequence
+GCA_000169015	AAVM02000006.1	319613	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont295, whole genome shotgun sequence
+GCA_000169015	AAVM02000005.1	369527	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont1270, whole genome shotgun sequence
+GCA_000169015	AAVM02000004.1	431883	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont60, whole genome shotgun sequence
+GCA_000169015	AAVM02000003.1	500031	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont1328, whole genome shotgun sequence
+GCA_000169015	AAVM02000002.1	510132	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont255, whole genome shotgun sequence
+GCA_000169015	AAVM02000001.1	1329168	Bacteroides caccae ATCC 43185 B_caccae-MSIQ_Cont1321, whole genome shotgun sequence
+GCA_000177435	ADFU01000019.1	650	Veillonella parvula ATCC 17745 contig00009, whole genome shotgun sequence
+GCA_000177435	ADFU01000018.1	2928	Veillonella parvula ATCC 17745 contig00014, whole genome shotgun sequence
+GCA_000177435	ADFU01000017.1	582154	Veillonella parvula ATCC 17745 contig00023, whole genome shotgun sequence
+GCA_000177435	ADFU01000016.1	584	Veillonella parvula ATCC 17745 contig00007, whole genome shotgun sequence
+GCA_000177435	ADFU01000015.1	19671	Veillonella parvula ATCC 17745 contig00012, whole genome shotgun sequence
+GCA_000177435	ADFU01000014.1	135958	Veillonella parvula ATCC 17745 contig00019, whole genome shotgun sequence
+GCA_000177435	ADFU01000013.1	120659	Veillonella parvula ATCC 17745 contig00018, whole genome shotgun sequence
+GCA_000177435	ADFU01000012.1	416853	Veillonella parvula ATCC 17745 contig00016, whole genome shotgun sequence
+GCA_000177435	ADFU01000011.1	438959	Veillonella parvula ATCC 17745 contig00013, whole genome shotgun sequence
+GCA_000177435	ADFU01000010.1	532	Veillonella parvula ATCC 17745 contig00004, whole genome shotgun sequence
+GCA_000177435	ADFU01000009.1	1605	Veillonella parvula ATCC 17745 contig00010, whole genome shotgun sequence
+GCA_000177435	ADFU01000008.1	24792	Veillonella parvula ATCC 17745 contig00017, whole genome shotgun sequence
+GCA_000177435	ADFU01000007.1	149010	Veillonella parvula ATCC 17745 contig00020, whole genome shotgun sequence
+GCA_000177435	ADFU01000006.1	85609	Veillonella parvula ATCC 17745 contig00022, whole genome shotgun sequence
+GCA_000177435	ADFU01000005.1	618	Veillonella parvula ATCC 17745 contig00001, whole genome shotgun sequence
+GCA_000177435	ADFU01000004.1	756	Veillonella parvula ATCC 17745 contig00002, whole genome shotgun sequence
+GCA_000177435	ADFU01000003.1	53548	Veillonella parvula ATCC 17745 contig00021, whole genome shotgun sequence
+GCA_000177435	ADFU01000002.1	15617	Veillonella parvula ATCC 17745 contig00011, whole genome shotgun sequence
+GCA_000177435	ADFU01000001.1	112970	Veillonella parvula ATCC 17745 contig00015, whole genome shotgun sequence
+GCA_000478965	AWXA01000001.1	15242	Megasphaera sp. BV3C16-1 contig00033, whole genome shotgun sequence
+GCA_000478965	AWXA01000002.1	15331	Megasphaera sp. BV3C16-1 contig00032, whole genome shotgun sequence
+GCA_000478965	AWXA01000003.1	33697	Megasphaera sp. BV3C16-1 contig00021, whole genome shotgun sequence
+GCA_000478965	AWXA01000004.1	116697	Megasphaera sp. BV3C16-1 contig00007, whole genome shotgun sequence
+GCA_000478965	AWXA01000005.1	23418	Megasphaera sp. BV3C16-1 contig00026, whole genome shotgun sequence
+GCA_000478965	AWXA01000006.1	38618	Megasphaera sp. BV3C16-1 contig00017, whole genome shotgun sequence
+GCA_000478965	AWXA01000007.1	158042	Megasphaera sp. BV3C16-1 contig00002, whole genome shotgun sequence
+GCA_000478965	AWXA01000008.1	203896	Megasphaera sp. BV3C16-1 contig00001, whole genome shotgun sequence
+GCA_000478965	AWXA01000009.1	35472	Megasphaera sp. BV3C16-1 contig00018, whole genome shotgun sequence
+GCA_000478965	AWXA01000010.1	17803	Megasphaera sp. BV3C16-1 contig00030, whole genome shotgun sequence
+GCA_000478965	AWXA01000011.1	41142	Megasphaera sp. BV3C16-1 contig00016, whole genome shotgun sequence
+GCA_000478965	AWXA01000012.1	2694	Megasphaera sp. BV3C16-1 contig00044, whole genome shotgun sequence
+GCA_000478965	AWXA01000013.1	1152	Megasphaera sp. BV3C16-1 contig00055, whole genome shotgun sequence
+GCA_000478965	AWXA01000014.1	18907	Megasphaera sp. BV3C16-1 contig00027, whole genome shotgun sequence
+GCA_000478965	AWXA01000015.1	24617	Megasphaera sp. BV3C16-1 contig00025, whole genome shotgun sequence
+GCA_000478965	AWXA01000016.1	18797	Megasphaera sp. BV3C16-1 contig00028, whole genome shotgun sequence
+GCA_000478965	AWXA01000017.1	961	Megasphaera sp. BV3C16-1 contig00057, whole genome shotgun sequence
+GCA_000478965	AWXA01000018.1	9056	Megasphaera sp. BV3C16-1 contig00040, whole genome shotgun sequence
+GCA_000478965	AWXA01000019.1	517	Megasphaera sp. BV3C16-1 contig00061, whole genome shotgun sequence
+GCA_000478965	AWXA01000020.1	34004	Megasphaera sp. BV3C16-1 contig00020, whole genome shotgun sequence
+GCA_000478965	AWXA01000021.1	48910	Megasphaera sp. BV3C16-1 contig00014, whole genome shotgun sequence
+GCA_000478965	AWXA01000022.1	570	Megasphaera sp. BV3C16-1 contig00059, whole genome shotgun sequence
+GCA_000478965	AWXA01000023.1	1866	Megasphaera sp. BV3C16-1 contig00049, whole genome shotgun sequence
+GCA_000478965	AWXA01000024.1	24871	Megasphaera sp. BV3C16-1 contig00024, whole genome shotgun sequence
+GCA_000478965	AWXA01000025.1	81599	Megasphaera sp. BV3C16-1 contig00010, whole genome shotgun sequence
+GCA_000478965	AWXA01000026.1	17669	Megasphaera sp. BV3C16-1 contig00031, whole genome shotgun sequence
+GCA_000478965	AWXA01000027.1	12817	Megasphaera sp. BV3C16-1 contig00035, whole genome shotgun sequence
+GCA_000478965	AWXA01000028.1	78662	Megasphaera sp. BV3C16-1 contig00011, whole genome shotgun sequence
+GCA_000478965	AWXA01000029.1	1265	Megasphaera sp. BV3C16-1 contig00053, whole genome shotgun sequence
+GCA_000478965	AWXA01000030.1	2129	Megasphaera sp. BV3C16-1 contig00048, whole genome shotgun sequence
+GCA_000478965	AWXA01000031.1	4067	Megasphaera sp. BV3C16-1 contig00042, whole genome shotgun sequence
+GCA_000478965	AWXA01000032.1	33389	Megasphaera sp. BV3C16-1 contig00022, whole genome shotgun sequence
+GCA_000478965	AWXA01000033.1	2441	Megasphaera sp. BV3C16-1 contig00046, whole genome shotgun sequence
+GCA_000478965	AWXA01000034.1	51461	Megasphaera sp. BV3C16-1 contig00013, whole genome shotgun sequence
+GCA_000478965	AWXA01000035.1	28714	Megasphaera sp. BV3C16-1 contig00023, whole genome shotgun sequence
+GCA_000478965	AWXA01000036.1	18027	Megasphaera sp. BV3C16-1 contig00029, whole genome shotgun sequence
+GCA_000478965	AWXA01000037.1	133683	Megasphaera sp. BV3C16-1 contig00006, whole genome shotgun sequence
+GCA_000478965	AWXA01000038.1	1635	Megasphaera sp. BV3C16-1 contig00050, whole genome shotgun sequence
+GCA_000478965	AWXA01000039.1	9472	Megasphaera sp. BV3C16-1 contig00039, whole genome shotgun sequence
+GCA_000478965	AWXA01000040.1	10935	Megasphaera sp. BV3C16-1 contig00036, whole genome shotgun sequence
+GCA_000478965	AWXA01000041.1	154158	Megasphaera sp. BV3C16-1 contig00003, whole genome shotgun sequence
+GCA_000478965	AWXA01000042.1	1312	Megasphaera sp. BV3C16-1 contig00051, whole genome shotgun sequence
+GCA_000478965	AWXA01000043.1	86629	Megasphaera sp. BV3C16-1 contig00009, whole genome shotgun sequence
+GCA_000478965	AWXA01000044.1	693	Megasphaera sp. BV3C16-1 contig00058, whole genome shotgun sequence
+GCA_000478965	AWXA01000045.1	7662	Megasphaera sp. BV3C16-1 contig00041, whole genome shotgun sequence
+GCA_000478965	AWXA01000046.1	76455	Megasphaera sp. BV3C16-1 contig00012, whole genome shotgun sequence
+GCA_000478965	AWXA01000047.1	2166	Megasphaera sp. BV3C16-1 contig00047, whole genome shotgun sequence
+GCA_000478965	AWXA01000048.1	48405	Megasphaera sp. BV3C16-1 contig00015, whole genome shotgun sequence
+GCA_000478965	AWXA01000049.1	1275	Megasphaera sp. BV3C16-1 contig00052, whole genome shotgun sequence
+GCA_000478965	AWXA01000050.1	10131	Megasphaera sp. BV3C16-1 contig00038, whole genome shotgun sequence
+GCA_000478965	AWXA01000051.1	106107	Megasphaera sp. BV3C16-1 contig00008, whole genome shotgun sequence
+GCA_000478965	AWXA01000052.1	521	Megasphaera sp. BV3C16-1 contig00060, whole genome shotgun sequence
+GCA_000478965	AWXA01000053.1	139100	Megasphaera sp. BV3C16-1 contig00004, whole genome shotgun sequence
+GCA_000478965	AWXA01000054.1	13977	Megasphaera sp. BV3C16-1 contig00034, whole genome shotgun sequence
+GCA_000478965	AWXA01000055.1	993	Megasphaera sp. BV3C16-1 contig00056, whole genome shotgun sequence
+GCA_000478965	AWXA01000056.1	2471	Megasphaera sp. BV3C16-1 contig00045, whole genome shotgun sequence
+GCA_000478965	AWXA01000057.1	10756	Megasphaera sp. BV3C16-1 contig00037, whole genome shotgun sequence
+GCA_000478965	AWXA01000058.1	3260	Megasphaera sp. BV3C16-1 contig00043, whole genome shotgun sequence
+GCA_000478965	AWXA01000059.1	34817	Megasphaera sp. BV3C16-1 contig00019, whole genome shotgun sequence
+GCA_000478965	AWXA01000060.1	517	Megasphaera sp. BV3C16-1 contig00062, whole genome shotgun sequence
+GCA_000478965	AWXA01000061.1	1244	Megasphaera sp. BV3C16-1 contig00054, whole genome shotgun sequence
+GCA_000478965	AWXA01000062.1	137537	Megasphaera sp. BV3C16-1 contig00005, whole genome shotgun sequence
+GCA_000173435	ABXX02000036.1	508	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont35.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000035.1	524	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont34.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000034.1	523	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont33.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000033.1	522	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont32.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000032.1	534	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont31.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000031.1	622	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont30.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000030.1	701	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont29.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000029.1	723	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont28.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000028.1	807	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont27.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000027.1	840	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont26.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000026.1	865	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont25.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000025.1	842	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont24.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000024.1	865	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont23.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000023.1	1079	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont22.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000022.1	1016	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont21.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000021.1	1068	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont20.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000020.1	1069	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont19.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000019.1	1094	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont18.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000018.1	1250	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont17.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000017.1	1338	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont16.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000016.1	1474	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont15.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000015.1	1202	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont14.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000014.1	1680	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont13.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000013.1	1816	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont12.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000012.1	1768	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont11.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000011.1	2239	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont10.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000010.1	2140	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont9.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000009.1	3068	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont8.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000008.1	20036	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont7.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000007.1	88369	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont6.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000006.1	114296	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont5.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000005.1	144295	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont4.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000004.1	176662	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont3.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000003.1	542302	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont2.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000002.1	570758	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont1.1, whole genome shotgun sequence
+GCA_000173435	ABXX02000001.1	615913	Bifidobacterium pseudocatenulatum DSM 20438 = JCM 1200 = LMG 10505 strain DSM 20438 B_pseudocatenulatum-1.0.1_Cont0.1, whole genome shotgun sequence
+GCA_000273035	JH724110.1	1402770	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.1, whole genome shotgun sequence
+GCA_000273035	JH724111.1	1399941	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.2, whole genome shotgun sequence
+GCA_000273035	JH724112.1	1151712	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.3, whole genome shotgun sequence
+GCA_000273035	JH724113.1	789059	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.4, whole genome shotgun sequence
+GCA_000273035	JH724114.1	431307	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.5, whole genome shotgun sequence
+GCA_000273035	JH724115.1	331513	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.6, whole genome shotgun sequence
+GCA_000273035	JH724116.1	305358	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.7, whole genome shotgun sequence
+GCA_000273035	JH724117.1	93376	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.8, whole genome shotgun sequence
+GCA_000273035	JH724118.1	42218	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.9, whole genome shotgun sequence
+GCA_000273035	JH724119.1	37974	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.10, whole genome shotgun sequence
+GCA_000273035	JH724120.1	33151	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.11, whole genome shotgun sequence
+GCA_000273035	JH724121.1	12571	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.12, whole genome shotgun sequence
+GCA_000273035	JH724122.1	12503	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.13, whole genome shotgun sequence
+GCA_000273035	JH724123.1	9128	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.14, whole genome shotgun sequence
+GCA_000273035	JH724124.1	5724	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.15, whole genome shotgun sequence
+GCA_000273035	JH724125.1	4553	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.16, whole genome shotgun sequence
+GCA_000273035	JH724126.1	4140	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.17, whole genome shotgun sequence
+GCA_000273035	JH724127.1	3722	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.18, whole genome shotgun sequence
+GCA_000273035	JH724128.1	2884	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.19, whole genome shotgun sequence
+GCA_000273035	JH724129.1	2492	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.20, whole genome shotgun sequence
+GCA_000273035	JH724130.1	2373	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.21, whole genome shotgun sequence
+GCA_000273035	JH724131.1	1107	Bacteroides dorei CL02T00C15 genomic scaffold supercont1.22, whole genome shotgun sequence
+GCA_000009925	AP006841.1	5277274	Bacteroides fragilis YCH46 DNA, complete genome
+GCA_000009925	AP006842.1	33716	Bacteroides fragilis YCH46 plasmid pBFY46 DNA, complete sequence
+GCA_000273195	JH724226.1	3602474	Bacteroides ovatus CL02T12C04 genomic scaffold supercont1.1, whole genome shotgun sequence
+GCA_000273195	JH724227.1	1325018	Bacteroides ovatus CL02T12C04 genomic scaffold supercont1.2, whole genome shotgun sequence
+GCA_000273195	JH724228.1	1151692	Bacteroides ovatus CL02T12C04 genomic scaffold supercont1.3, whole genome shotgun sequence
+GCA_000273195	JH724229.1	692042	Bacteroides ovatus CL02T12C04 genomic scaffold supercont1.4, whole genome shotgun sequence
+GCA_000273195	JH724230.1	349100	Bacteroides ovatus CL02T12C04 genomic scaffold supercont1.5, whole genome shotgun sequence
+GCA_000273195	JH724231.1	294531	Bacteroides ovatus CL02T12C04 genomic scaffold supercont1.6, whole genome shotgun sequence
+GCA_000273195	JH724232.1	262427	Bacteroides ovatus CL02T12C04 genomic scaffold supercont1.7, whole genome shotgun sequence
+GCA_000273195	JH724233.1	124460	Bacteroides ovatus CL02T12C04 genomic scaffold supercont1.8, whole genome shotgun sequence
+GCA_000273195	JH724234.1	82762	Bacteroides ovatus CL02T12C04 genomic scaffold supercont1.9, whole genome shotgun sequence
+GCA_000273195	JH724235.1	4242	Bacteroides ovatus CL02T12C04 genomic scaffold supercont1.10, whole genome shotgun sequence
+GCA_000273195	JH724236.1	3118	Bacteroides ovatus CL02T12C04 genomic scaffold supercont1.11, whole genome shotgun sequence
+GCA_000273195	JH724237.1	2816	Bacteroides ovatus CL02T12C04 genomic scaffold supercont1.12, whole genome shotgun sequence
+GCA_000273195	JH724238.1	2779	Bacteroides ovatus CL02T12C04 genomic scaffold supercont1.13, whole genome shotgun sequence
+GCA_000273195	JH724239.1	1744	Bacteroides ovatus CL02T12C04 genomic scaffold supercont1.14, whole genome shotgun sequence
+GCA_000273195	JH724240.1	1375	Bacteroides ovatus CL02T12C04 genomic scaffold supercont1.15, whole genome shotgun sequence
+GCA_000156495	DS996545.1	1020	Parabacteroides johnsonii DSM 18315 Scfld236 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996544.1	555	Parabacteroides johnsonii DSM 18315 Scfld231 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996543.1	643	Parabacteroides johnsonii DSM 18315 Scfld227 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996542.1	1123	Parabacteroides johnsonii DSM 18315 Scfld217 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996541.1	734	Parabacteroides johnsonii DSM 18315 Scfld216 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996540.1	509	Parabacteroides johnsonii DSM 18315 Scfld215 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996539.1	648	Parabacteroides johnsonii DSM 18315 Scfld211 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996538.1	1828	Parabacteroides johnsonii DSM 18315 Scfld209 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996537.1	510	Parabacteroides johnsonii DSM 18315 Scfld208 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996536.1	1006	Parabacteroides johnsonii DSM 18315 Scfld204 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996535.1	969	Parabacteroides johnsonii DSM 18315 Scfld203 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996534.1	590	Parabacteroides johnsonii DSM 18315 Scfld197 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996533.1	616	Parabacteroides johnsonii DSM 18315 Scfld196 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996532.1	942	Parabacteroides johnsonii DSM 18315 Scfld194 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996531.1	835	Parabacteroides johnsonii DSM 18315 Scfld193 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996530.1	602	Parabacteroides johnsonii DSM 18315 Scfld185 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996529.1	514	Parabacteroides johnsonii DSM 18315 Scfld181 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996528.1	776	Parabacteroides johnsonii DSM 18315 Scfld179 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996527.1	689	Parabacteroides johnsonii DSM 18315 Scfld177 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996526.1	612	Parabacteroides johnsonii DSM 18315 Scfld176 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996525.1	552	Parabacteroides johnsonii DSM 18315 Scfld174 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996524.1	605	Parabacteroides johnsonii DSM 18315 Scfld168 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996523.1	780	Parabacteroides johnsonii DSM 18315 Scfld165 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996522.1	828	Parabacteroides johnsonii DSM 18315 Scfld164 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996521.1	829	Parabacteroides johnsonii DSM 18315 Scfld163 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996520.1	640	Parabacteroides johnsonii DSM 18315 Scfld158 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996519.1	606	Parabacteroides johnsonii DSM 18315 Scfld155 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996518.1	939	Parabacteroides johnsonii DSM 18315 Scfld145 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996517.1	1302	Parabacteroides johnsonii DSM 18315 Scfld142 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996516.1	536	Parabacteroides johnsonii DSM 18315 Scfld141 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996515.1	650	Parabacteroides johnsonii DSM 18315 Scfld139 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996514.1	993	Parabacteroides johnsonii DSM 18315 Scfld138 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996513.1	779	Parabacteroides johnsonii DSM 18315 Scfld137 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996512.1	1206	Parabacteroides johnsonii DSM 18315 Scfld135 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996511.1	1280	Parabacteroides johnsonii DSM 18315 Scfld133 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996510.1	593	Parabacteroides johnsonii DSM 18315 Scfld112 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996509.1	666	Parabacteroides johnsonii DSM 18315 Scfld102 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996508.1	747	Parabacteroides johnsonii DSM 18315 Scfld100 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996507.1	519	Parabacteroides johnsonii DSM 18315 Scfld99 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996506.1	772	Parabacteroides johnsonii DSM 18315 Scfld96 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996505.1	939	Parabacteroides johnsonii DSM 18315 Scfld95 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996504.1	744	Parabacteroides johnsonii DSM 18315 Scfld94 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996503.1	811	Parabacteroides johnsonii DSM 18315 Scfld93 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996502.1	1128	Parabacteroides johnsonii DSM 18315 Scfld92 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996501.1	784	Parabacteroides johnsonii DSM 18315 Scfld91 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996500.1	1283	Parabacteroides johnsonii DSM 18315 Scfld90 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996499.1	666	Parabacteroides johnsonii DSM 18315 Scfld89 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996498.1	1631	Parabacteroides johnsonii DSM 18315 Scfld88 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996497.1	925	Parabacteroides johnsonii DSM 18315 Scfld87 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996496.1	924	Parabacteroides johnsonii DSM 18315 Scfld84 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996495.1	766	Parabacteroides johnsonii DSM 18315 Scfld83 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996494.1	1319	Parabacteroides johnsonii DSM 18315 Scfld82 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996493.1	1100	Parabacteroides johnsonii DSM 18315 Scfld81 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996492.1	912	Parabacteroides johnsonii DSM 18315 Scfld80 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996491.1	1794	Parabacteroides johnsonii DSM 18315 Scfld79 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996490.1	679	Parabacteroides johnsonii DSM 18315 Scfld78 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996489.1	579	Parabacteroides johnsonii DSM 18315 Scfld77 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996488.1	1327	Parabacteroides johnsonii DSM 18315 Scfld75 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996487.1	790	Parabacteroides johnsonii DSM 18315 Scfld74 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996486.1	795	Parabacteroides johnsonii DSM 18315 Scfld73 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996485.1	1149	Parabacteroides johnsonii DSM 18315 Scfld71 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996484.1	1019	Parabacteroides johnsonii DSM 18315 Scfld70 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996483.1	1280	Parabacteroides johnsonii DSM 18315 Scfld69 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996482.1	574	Parabacteroides johnsonii DSM 18315 Scfld67 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996481.1	888	Parabacteroides johnsonii DSM 18315 Scfld63 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996480.1	980	Parabacteroides johnsonii DSM 18315 Scfld62 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996479.1	1432	Parabacteroides johnsonii DSM 18315 Scfld61 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996478.1	840	Parabacteroides johnsonii DSM 18315 Scfld59 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996477.1	772	Parabacteroides johnsonii DSM 18315 Scfld58 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996476.1	1463	Parabacteroides johnsonii DSM 18315 Scfld57 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996475.1	1087	Parabacteroides johnsonii DSM 18315 Scfld56 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996474.1	1122	Parabacteroides johnsonii DSM 18315 Scfld55 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996473.1	938	Parabacteroides johnsonii DSM 18315 Scfld53 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996472.1	728	Parabacteroides johnsonii DSM 18315 Scfld51 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996471.1	1167	Parabacteroides johnsonii DSM 18315 Scfld50 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996470.1	753	Parabacteroides johnsonii DSM 18315 Scfld37 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996469.1	900	Parabacteroides johnsonii DSM 18315 Scfld36 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996468.1	1494	Parabacteroides johnsonii DSM 18315 Scfld34 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996467.1	551	Parabacteroides johnsonii DSM 18315 Scfld33 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996466.1	919	Parabacteroides johnsonii DSM 18315 Scfld32 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996465.1	1542	Parabacteroides johnsonii DSM 18315 Scfld30 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996464.1	1019	Parabacteroides johnsonii DSM 18315 Scfld29 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996463.1	1616	Parabacteroides johnsonii DSM 18315 Scfld28 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996462.1	1527	Parabacteroides johnsonii DSM 18315 Scfld27 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996461.1	1381	Parabacteroides johnsonii DSM 18315 Scfld26 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996460.1	1042	Parabacteroides johnsonii DSM 18315 Scfld25 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996459.1	979	Parabacteroides johnsonii DSM 18315 Scfld20 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996458.1	1445	Parabacteroides johnsonii DSM 18315 Scfld18 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996457.1	16315	Parabacteroides johnsonii DSM 18315 Scfld17 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996456.1	1015533	Parabacteroides johnsonii DSM 18315 Scfld16 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996455.1	57044	Parabacteroides johnsonii DSM 18315 Scfld15 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996454.1	209464	Parabacteroides johnsonii DSM 18315 Scfld14 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996453.1	645288	Parabacteroides johnsonii DSM 18315 Scfld13 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996452.1	180651	Parabacteroides johnsonii DSM 18315 Scfld12 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996451.1	401078	Parabacteroides johnsonii DSM 18315 Scfld11 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996450.1	187769	Parabacteroides johnsonii DSM 18315 Scfld10 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996449.1	209903	Parabacteroides johnsonii DSM 18315 Scfld9 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996448.1	2035	Parabacteroides johnsonii DSM 18315 Scfld8 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996447.1	243410	Parabacteroides johnsonii DSM 18315 Scfld7 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996446.1	61011	Parabacteroides johnsonii DSM 18315 Scfld6 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996445.1	404138	Parabacteroides johnsonii DSM 18315 Scfld5 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996444.1	972430	Parabacteroides johnsonii DSM 18315 Scfld4 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996443.1	7341	Parabacteroides johnsonii DSM 18315 Scfld3 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996442.1	5418	Parabacteroides johnsonii DSM 18315 Scfld2 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996441.1	46967	Parabacteroides johnsonii DSM 18315 Scfld1 genomic scaffold, whole genome shotgun sequence
+GCA_000156495	DS996440.1	39256	Parabacteroides johnsonii DSM 18315 Scfld0 genomic scaffold, whole genome shotgun sequence
+GCA_000273295	JH724282.1	1635329	Bacteroides vulgatus CL09T03C04 genomic scaffold supercont1.1, whole genome shotgun sequence
+GCA_000273295	JH724283.1	1209141	Bacteroides vulgatus CL09T03C04 genomic scaffold supercont1.2, whole genome shotgun sequence
+GCA_000273295	JH724284.1	555149	Bacteroides vulgatus CL09T03C04 genomic scaffold supercont1.3, whole genome shotgun sequence
+GCA_000273295	JH724285.1	350989	Bacteroides vulgatus CL09T03C04 genomic scaffold supercont1.4, whole genome shotgun sequence
+GCA_000273295	JH724286.1	345373	Bacteroides vulgatus CL09T03C04 genomic scaffold supercont1.5, whole genome shotgun sequence
+GCA_000273295	JH724287.1	310131	Bacteroides vulgatus CL09T03C04 genomic scaffold supercont1.6, whole genome shotgun sequence
+GCA_000273295	JH724288.1	226159	Bacteroides vulgatus CL09T03C04 genomic scaffold supercont1.7, whole genome shotgun sequence
+GCA_000273295	JH724289.1	97822	Bacteroides vulgatus CL09T03C04 genomic scaffold supercont1.8, whole genome shotgun sequence
+GCA_000273295	JH724290.1	92802	Bacteroides vulgatus CL09T03C04 genomic scaffold supercont1.9, whole genome shotgun sequence
+GCA_000273295	JH724291.1	89336	Bacteroides vulgatus CL09T03C04 genomic scaffold supercont1.10, whole genome shotgun sequence
+GCA_000273295	JH724292.1	2519	Bacteroides vulgatus CL09T03C04 genomic scaffold supercont1.11, whole genome shotgun sequence
+GCA_000273295	JH724293.1	1752	Bacteroides vulgatus CL09T03C04 genomic scaffold supercont1.12, whole genome shotgun sequence

@@ -3,19 +3,15 @@ import gzip
 import re
 import sys
 import os
+samtoolsVcf = "/root/lp/liver/metagenomic_SNP_calling/test/callSNP/filtersam"
+varscanVcf = "/root/lp/liver/metagenomic_SNP_calling/test/callSNP/voutput"
+newvcf = "/root/lp/liver/metagenomic_SNP_calling/test/callSNP/merge"
 
-samtoolsVcf = "/root/data/liver/downsample/step4_filtersam"
-varscanVcf = "/root/data/liver/downsample/step3_vsoutput"
-
-outpath = 'step5_merge'
-if not os.path.exists(outpath):
-    os.mkdir(outpath)
-
-listfile = "list%s.txt"%sys.argv[1]
+listfile = "../list%s.txt"%sys.argv[1]
 with open(listfile,'r') as inpf:
     for line in inpf:
         line = line.strip()
-        sample = line
+        sample = line.split("\t")[0]
         samvcf = "%s/%s.vcf.gz"%(samtoolsVcf,sample)
         varvcf = "%s/%s.vcf.gz"%(varscanVcf,sample)
         set1 = set()
@@ -23,7 +19,6 @@ with open(listfile,'r') as inpf:
         samFreq = {}
         varFreq = {}
         ntFreq = {}
-        print sample
         with gzip.open(samvcf,'r') as inpf2:
             for line2 in inpf2:
                 line2 = line2.strip()
@@ -52,7 +47,6 @@ with open(listfile,'r') as inpf:
         tmpVarBiasArray = {}
         tmpVarReads2 = {}
         tmpVaridens = set()
-        print 'read var file'
         with gzip.open(varvcf,'r') as inpf3:
             for line3 in inpf3:
                 line3 = line3.strip()
@@ -80,7 +74,6 @@ with open(listfile,'r') as inpf:
                     tmpVarBias[iden] = float(reads2plus)/(int(reads2plus)+int(reads2minus))
                     tmpVarBiasArray[iden] = [reads2plus, reads2minus]
                     tmpVarReads2[iden] += reads2
-        print 'filter var'
         for iden in tmpVaridens:
             if tmpVarBias[iden] < 0.1 or tmpVarBias[iden] > 0.9:
                 continue
@@ -92,8 +85,7 @@ with open(listfile,'r') as inpf:
                 set3.add(iden)
         varFreq = tmpVarfreq
 
-        samFormat = "./step5_merge/%s.vcf.gz"%(sample)
-        print "%s sam"%sample
+        samFormat = "%s/%s.vcf.gz"%(newvcf,sample)
         with gzip.open(samFormat,'w') as outpf:
             with gzip.open(samvcf,'r') as inpf2:
                 for line2 in inpf2:
@@ -107,7 +99,7 @@ with open(listfile,'r') as inpf:
                     iden = "%s_%s"%(contig,pos)
                     if iden in set3:
                         outpf.write("%s\t%s\t%s\n"%(line2,samFreq[iden],varFreq[iden]))
-        with open('./step5_merge/%s.result.txt'%sample,'w') as outpf:
+        with open('%s/%s.result.txt'%(newvcf,sample),'w') as outpf:
             for iden in set3:
                 outpf.write("%s\t%s\t%s\n"%(iden,samFreq[iden],varFreq[iden]))
 

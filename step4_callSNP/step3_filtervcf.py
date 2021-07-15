@@ -9,14 +9,11 @@ import glob
 import sys
 import os
 
-outpath = 'step4_filtersam'
-if not os.path.exists(outpath):
-    os.mkdir(outpath)
 
-vcfannotate = "/root/data/software/vcftools-vcftools-581c231/src/perl/vcf-annotate"
-rawVcfPath = "/root/data/liver/step2_savedBams"
-newVcfPath = "/root/data/liver/step4_filtersam"
-listFile = "list%s.txt"%sys.argv[1]
+vcfannotate = "/root/lp/software/vcftools/src/perl/vcf-annotate"
+rawVcfPath = "/root/lp/liver/metagenomic_SNP_calling/test/callSNP/savedBams"
+newVcfPath = "/root/lp/liver/metagenomic_SNP_calling/test/callSNP/filtersam"
+listFile = "../list%s.txt"%sys.argv[1]
 
 def freqFilter(sraID):
     file = "%s/%s.dp.vcf.gz"%(newVcfPath, sraID)
@@ -53,7 +50,7 @@ def dpFilter(sraID):
 with open(listFile,"r") as inpf:
     for line in inpf:
         line = line.strip()
-        sample = line
+        sample = line.split("\t")[0]
         dpFilter(sample)
         freqFilter(sample)
 

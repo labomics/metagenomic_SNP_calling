@@ -17,7 +17,7 @@ def get_contigs_old(bam):
     return contigs
 def get_contigs_new():
     contigs = {}
-    with open('../keyFiles/contigs.txt','r') as inpf:
+    with open('/root/lp/liver/metagenomic_SNP_calling/test/keyFiles/contigs.txt','r') as inpf:
         for line in inpf:
             line = line.strip()
             contig,length = line.split("\t")
@@ -31,10 +31,10 @@ def coverage(bam, outfile):
     with open(outfile,"w") as outpf:
         coverage_dict = {}
         for c in contigs.keys():
-            command = "%s depth -r %s %s | awk '{sum+=$3;cnt++}END{print cnt \"\t\" sum}'" % (samtools, c, bam)
+            command = "samtools depth -r %s %s | awk '{sum+=$3;cnt++}END{print cnt \"\t\" sum}'" % ( c, bam)
             coverage_dict[c] = {}
             contig_info = Popen(command, stdout=PIPE, shell = True).communicate()[0].strip()
-            print contig_info
+            #print contig_info
 	    if(contig_info != ''):
                 sites, bases = map(int, contig_info.split("\t"))
                 breadth = sites / float(contigs[c])
@@ -47,9 +47,9 @@ def coverage(bam, outfile):
             outpf.write("\n")
 
 list_no = sys.argv[1]
-list_file = "list%s.txt"%list_no
-bamPath = "/public1/home/yingxm/liupu/liver/step6_callSNP/savedBams1"
-cwd = "/public1/home/yingxm/liupu/liver/steq10_species_coverage"
+list_file = "../list%s.txt"%list_no
+bamPath = "/root/lp/liver/metagenomic_SNP_calling/test/callSNP/savedBams"
+cwd = "/root/lp/liver/metagenomic_SNP_calling/test/species_coverage"
 
 if __name__ == '__main__':
     with open(list_file,"r") as inpf:
@@ -64,4 +64,4 @@ if __name__ == '__main__':
             sm_command = "samtools index %s"%( bamfile)
             os.system(sm_command)
             print "caculate uniq coverage..."
-            coverage(bamfile, "%s/output/%s.coverage.txt"%(cwd,line))
+            coverage(bamfile, "%s/%s.coverage.txt"%(cwd,line))

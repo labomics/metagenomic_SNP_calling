@@ -4,7 +4,7 @@ import sys
 import glob
 import re
 
-inpf = open("./species_name_bigger_than_3one.txt","r")
+inpf = open("speciesname.txt",'r')
 bigdict = dict()
 for line in inpf:
     line = line.strip()
@@ -46,7 +46,7 @@ for file in filename:
         else:
             bigdict[key][scoredict[key]["strain"]] = 1
     inpf.close()
-print bigdict
+#print bigdict
 
 for key in bigdict.keys():
 #    print key
