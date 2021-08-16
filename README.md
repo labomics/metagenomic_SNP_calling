@@ -19,20 +19,10 @@ Burrows-Wheeler Aligner-maximal exact match (BWA-MEM) was chosen to align clean 
 ### SNP density
 For prevalent strains with sufficient genome coverage and depth, getSNP_majorFreq.py was used to achieve major SNPs in these strains. getSNPnum.py was used to count SNPs of each prevalent strain in each sample and cal_density.py was used to calculate SNP density based on SNPs and genome coverage of strains. Mann-Whitney test was used to analyze the difference of SNP densitiy between the liver cirrhosis and control group. R package qvalue (v2.10.0) was used to control False Discovery Rate.  (see details in step6_snpdensity).
 
-## Citation
-
-### Comprehensive Strain-level Analysis of the Gut Microbe Faecalibacterium Prausnitzii in Patients with Liver Cirrhosis
-
-Yaowen Chen<sup>1*</sup>, Pu Liu<sup>1*</sup>, Runyan Liu<sup>1</sup>, Shuofeng Hu<sup>1</sup>, Zhen He<sup>1</sup>, Guohua Dong<sup>1</sup>, Chao Feng<sup>1</sup>, Sijing An<sup>1</sup>, Xiaomin Ying<sup>1#</sup>
-
-### Gut metagenomes of type 2 diabetic patients have characteristic single-nucleotide polymorphism distribution in Bacteroides coprocola
-
-Yaowen Chen<sup>1</sup> , Zongcheng Li<sup>1</sup> , Shuofeng Hu<sup>1</sup> , Jian Zhang<sup>1</sup> , Jiaqi Wu<sup>1</sup> , Ningsheng Shao<sup>1</sup> , Xiaochen Bo<sup>2</sup> , Ming Ni<sup>2*</sup> and Xiaomin Ying<sup>1*</sup>
-
-## Pre-requisites
+### Pre-requisites
 This part requires FastQC, Trimmomatic, MetaPhlAn2.0, bowtie2, bwa, Samtools, picard, bcftools, VarScan2, vcftools installed. 
 
-## Flowchart
+### Flowchart
 <img src="flowchart.png" width = "300" height = "429" alt="" align=center />
 
 ### Usage Examples
@@ -75,3 +65,17 @@ step6_snpdensity calculates SNP density of prevalent strains and uses Mann-Whitn
     python2 step2_getSNPnum.py 
     python2 step3_cal_density.py
     Rscript step4_static.r
+
+## Citation
+
+### [Comprehensive Strain-level Analysis of the Gut Microbe Faecalibacterium Prausnitzii in Patients with Liver Cirrhosis](https://pubmed.ncbi.nlm.nih.gov/34342541/)
+
+Yaowen Chen<sup>1*</sup>, Pu Liu<sup>1*</sup>, Runyan Liu<sup>1</sup>, Shuofeng Hu<sup>1</sup>, Zhen He<sup>1</sup>, Guohua Dong<sup>1</sup>, Chao Feng<sup>1</sup>, Sijing An<sup>1</sup>, Xiaomin Ying<sup>1#</sup>
+
+mSystems. 2021 Aug 3;e0077521. doi: 10.1128/mSystems.00775-21.
+
+### [Gut metagenomes of type 2 diabetic patients have characteristic single-nucleotide polymorphism distribution in Bacteroides coprocola](https://pubmed.ncbi.nlm.nih.gov/28143583/)
+
+Yaowen Chen<sup>1</sup> , Zongcheng Li<sup>1</sup> , Shuofeng Hu<sup>1</sup> , Jian Zhang<sup>1</sup> , Jiaqi Wu<sup>1</sup> , Ningsheng Shao<sup>1</sup> , Xiaochen Bo<sup>2</sup> , Ming Ni<sup>2*</sup> and Xiaomin Ying<sup>1*</sup>
+
+Microbiome. 2017 Feb 1;5(1):15. doi: 10.1186/s40168-017-0232-3.
